@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction — End-to-End ML Project
+n — End-to-End ML Project
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat&logo=scikit-learn)
@@ -113,6 +113,10 @@ streamlit run app.py
 
 *(Add screenshots of your notebook plots and app here after running)*
 <img width="1424" height="838" alt="Screenshot 2026-05-04 at 6 59 18 PM" src="https://github.com/user-attachments/assets/fda9e4ae-69d3-4161-af19-9535ae45c46a" />
+<img width="1435" height="666" alt="Screenshot 2026-05-04 at 6 59 38 PM" src="https://github.com/user-attachments/assets/8ad3d98d-1483-44c5-b209-0eaae91fe66f" />
+<img width="1120" height="759" alt="Screenshot 2026-05-04 at 6 59 49 PM" src="https://github.com/user-attachments/assets/d7eea83c-ff8d-486b-8bc4-defe71fbb98d" />
+<img width="1435" height="656" alt="Screenshot 2026-05-04 at 6 59 46 PM" src="https://github.com/user-attachments/assets/8c2a8d78-90a8-492c-90a3-ed01c3cdfcca" />
+# 🏠 House Price Predictio
 
 ---
 
