@@ -112,6 +112,7 @@ streamlit run app.py
 ## 📸 Screenshots
 
 *(Add screenshots of your notebook plots and app here after running)*
+<img width="1424" height="838" alt="Screenshot 2026-05-04 at 6 59 18 PM" src="https://github.com/user-attachments/assets/fda9e4ae-69d3-4161-af19-9535ae45c46a" />
 
 ---
 
@@ -126,4 +127,4 @@ streamlit run app.py
 
 *⭐ If you found this useful, give it a star!*
 
-Screenshot 2026-05-04 at 6.59.49 PMScreenshot 2026-05-04 at 6.59.46 PMScreenshot 2026-05-04 at 6.59.38 PMScreenshot 2026-05-04 at 6.59.18 PM
+
