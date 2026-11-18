@@ -1,5 +1,3 @@
-n — End-to-End ML Project
-
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?style=flat&logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat&logo=streamlit)
